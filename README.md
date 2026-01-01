@@ -3,7 +3,7 @@
 💻 Hakkımda  
 Merhaba! Ben Onur. Bilgisayar Programcılığı öğrencisiyim ve 2026 yaz ayında mezun oluyorum.  
 Yazılım geliştirme alanında; özellikle **Python** ve **Flutter & Dart** ile çalışıyorum, bir aralar Vue.js ile script yazdım.
-Şu anda odağım, **gerçek hayatta işe yarayan küçük uygulamalar, otomasyonlar ve backend tarafı**.
+Şu anda odağım, **Python ve Flutter & Dart**.
 
 Frontend tarafında temel düzeyde **HTML, CSS** bilgisine; mobil tarafta ise **Flutter & Dart** giriş seviyesinde deneyime sahibim.
 
