@@ -20,8 +20,7 @@ Frontend tarafında temel düzeyde **HTML, CSS** bilgisine; mobil tarafta ise **
 ---
 
 ## 🚧 Şu Anda Ne Yapıyorum?
-- Python ile temel, otomasyon ve backend odaklı projeler geliştiriyorum   
-- Vue.js ile RageMP'de Script'ler yazdım
+- Python ile temel, otomasyon ve backend odaklı kendime katkı sağlayacak projeler geliştiriyorum   
 - Flutter & Dart ile mobil geliştirmeye giriş seviyesinde devam ediyorum
 - Python ve Flutter & Dart dillerini hem öğreniyorum hem de kendimi bu dillere daha yakın ve yatkın hissediyorum
 
