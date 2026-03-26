@@ -1,4 +1,4 @@
-👋 Merhaba, ben Onur!
+Merhaba, ben Onur!
 
 💻 Hakkımda  
 Merhaba! Ben Onur. Bilgisayar Programcılığı öğrencisiyim ve 2026 yaz ayında mezun oluyorum.  
@@ -9,7 +9,7 @@ Frontend tarafında temel düzeyde **HTML, CSS** bilgisine; mobil tarafta ise **
 
 ---
 
-## 🛠️ Teknik Beceriler
+## Teknik Beceriler
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -19,7 +19,7 @@ Frontend tarafında temel düzeyde **HTML, CSS** bilgisine; mobil tarafta ise **
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ---
 
-## 🚧 Şu Anda Ne Yapıyorum?
+## Şu Anda Ne Yapıyorum?
 - Python ile temel, otomasyon ve backend odaklı kendime katkı sağlayacak projeler geliştiriyorum   
 - Flutter & Dart ile mobil geliştirmeye giriş seviyesinde devam ediyorum
 - Python ve Flutter & Dart dillerini hem öğreniyorum hem de kendimi bu dillere daha yakın ve yatkın hissediyorum
@@ -27,8 +27,7 @@ Frontend tarafında temel düzeyde **HTML, CSS** bilgisine; mobil tarafta ise **
 ---
 
 ## İletişim
- **E-posta:** onurselcuku@gmail.com  
  **Discord:** `hazywie`
  **Instagram:** onurselcukunsal
 
-🚀 Yeni şeyler öğrenmeye ve kendimi geliştirmeye açığım.
+Yeni şeyler öğrenmeye ve kendimi geliştirmeye açığım.
